@@ -27,7 +27,6 @@ Pour lancer le jeu, exécutez le fichier compilé :
 ## Fonctionnalités
 
 ### Gestion de la grille de jeu
-
 - **Création de la grille** : `lePuissance creerGrille(uint8_t nbrColonnes, uint8_t nbrLignes)`
 - **Duplication de la grille** : `void dupliquerGrille(lePuissance grilledeJeu, lePuissance* grilleDup)`
 - **Affichage de la grille** : `void afficherGrille(lePuissance grilledeJeu)`
