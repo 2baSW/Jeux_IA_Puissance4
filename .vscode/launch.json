@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/baba_sow/Documents/S5/STRUCT/Projet_IA_Puissance4",
-      "program": "/home/baba_sow/Documents/S5/STRUCT/Projet_IA_Puissance4/build/Debug/outDebug",
+      "cwd": "/home/baba_sow/Documents/S5/STRUCT/Jeux_IA_Puissance4",
+      "program": "/home/baba_sow/Documents/S5/STRUCT/Jeux_IA_Puissance4/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
